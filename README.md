@@ -1,0 +1,13 @@
+# 機器學習  
+- 回歸
+  - 線性回歸
+- 分類
+  - 邏輯式回歸
+  - SVM
+  - desicion tree 決策樹  
+  - Random forest
+  - xgboosting
+- 降維
+  - PCA
+- 分群
+  - K-means 
