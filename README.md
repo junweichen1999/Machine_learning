@@ -7,6 +7,7 @@
   - desicion tree 決策樹  
   - Random forest
   - xgboosting
+  - GaussianNB 
 - 降維
   - PCA
 - 分群
